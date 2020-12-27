@@ -1,0 +1,15 @@
+img{
+
+  box-sizing: border-box;
+  border: 10px groove black;
+  padding:20px;
+  margin: 40px;
+}
+
+.hello{
+  width: 370px;
+}
+
+.rotate{
+  transform: rotate(270deg);
+}
